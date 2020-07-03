@@ -4,11 +4,11 @@ We are excited to announce that the **ABP Framework** & and the **ABP Commercial
 
 Since this is a **major version**, it also includes some **breaking changes**. Don't panic, the changes are easy to adapt and will be explained below.
 
-> See the [GitHub release notes](https://github.com/abpframework/abp/releases/tag/3.0.0) for a detailed change log.
+> See the [GitHub release notes](https://github.com/abpframework/abp/releases) for a detailed change log.
 
 ## What's New with the ABP Framework 3.0?
 
-This post will only cover the important features/changes. You can see all the changes on the [GitHub release notes](https://github.com/abpframework/abp/releases/tag/2.9.0).
+This post will only cover the important features/changes. You can see all the changes on the [GitHub release notes](https://github.com/abpframework/abp/releases/tag/3.0.0).
 
 ### Angular 10!
 
@@ -127,7 +127,7 @@ See the [GitHub release notes](https://github.com/abpframework/abp/releases/tag/
 
 ## What's New with the ABP Commercial 3.0?
 
-In addition to all the features coming with the ABP Framework, the ABP Commercial has additional features with this release, as always. This section covers the [ABP Commercial](https://commercial.abp.io/) highlights in the version 2.9.
+In addition to all the features coming with the ABP Framework, the ABP Commercial has additional features with this release, as always. This section covers the [ABP Commercial](https://commercial.abp.io/) highlights in the version 3.0.
 
 ### New File Management Module
 
